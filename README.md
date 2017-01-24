@@ -12,3 +12,5 @@ References:
 
 https://community.hortonworks.com/content/repo/72747/open-nmt-harvard-nlp.html
 
+https://dzone.com/articles/this-week-in-hadoop-and-more-nlp-and-dl
+
